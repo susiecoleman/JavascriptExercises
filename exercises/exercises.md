@@ -15,38 +15,52 @@ Either directly in the console or in the [script.js](script.js) file complete th
 ## Syntax Examples
 Print something to the console:
 
-`console.log("Hello");`
+```javascript
+console.log("Hello");
+```
 
 Create a variable:
 
-`var x = 3;`
+```javascript
+var x = 3;
+```
 
 Change the value of a variable:
 
-`x = 5;`
+```javascript
+x = 5;
+```
 
 If statement:
 
-```if(3 > 5){
+```javascript
+if(3 > 5){
   console.log("3 is bigger than 5");
 } else{
   console.log("3 is not bigger than 5");
-}```
+}
+```
 
 While loop:
 
-```while(x != 2){
+```javascript
+while(x != 2){
   console.log("x");
-}```
+}
+```
 
 Function:
 
-```function myFunction(x) {
+```javascript
+function myFunction(x) {
   console.log("x");
-}```
+}
+```
 
 Another Function:
 
-```function myFunction(x) {
+```javascript
+function myFunction(x) {
   return x;
-}```
+}
+```
