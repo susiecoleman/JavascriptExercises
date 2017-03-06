@@ -16,31 +16,37 @@ Either directly in the console or in the [script.js](script.js) file complete th
 Print something to the console:
 
 `console.log("Hello");`
+
 Create a variable:
 
 `var x = 3;`
+
 Change the value of a variable:
 
 `x = 5;`
+
 If statement:
 
-`if(3 > 5){
+```if(3 > 5){
   console.log("3 is bigger than 5");
 } else{
   console.log("3 is not bigger than 5");
-}`
+}```
+
 While loop:
 
-`while(x != 2){
+```while(x != 2){
   console.log("x");
-}`
+}```
+
 Function:
 
-`function myFunction(x) {
+```function myFunction(x) {
   console.log("x");
-}`
+}```
+
 Another Function:
 
-`function myFunction(x) {
+```function myFunction(x) {
   return x;
-}`
+}```
