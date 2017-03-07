@@ -31,6 +31,20 @@ Change the value of a variable:
 x = 5;
 ```
 
+Boolean Operators:
+
+`>` - Greater than
+
+`<` - Less than
+
+`>=` - Greater than or equal
+
+`<=` - Less than or equal
+
+`==` - Equals
+
+`!=` - Does not equal
+
 If statement:
 
 ```javascript
