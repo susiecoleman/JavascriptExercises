@@ -23,6 +23,8 @@ Create a variable:
 
 ```javascript
 var x = 3;
+var y = "Y"
+var z = true
 ```
 
 Change the value of a variable:
